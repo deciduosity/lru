@@ -3,7 +3,7 @@ package lru
 import (
 	"strings"
 
-	"github.com/mongodb/grip"
+	"github.com/deciduosity/grip"
 	"github.com/pkg/errors"
 )
 
